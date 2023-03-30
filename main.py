@@ -1,7 +1,7 @@
 import random
 
 def roll_dice():
-    """Roll two dice and return their sum."""
+    """Roll two dice and return their sum!"""
     dice1 = random.randint(1, 6)
     dice2 = random.randint(1, 6)
     return dice1 + dice2
