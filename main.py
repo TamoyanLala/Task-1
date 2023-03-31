@@ -27,3 +27,4 @@ def play_game():
             elif roll == 7:
                 print("You lose.")
                 break
+play_game()
